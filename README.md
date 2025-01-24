@@ -7,7 +7,6 @@
 <p align="left">Welcome to my GitHub! I'm a passionate developer focused on creating innovative and high-performance web applications. I love tackling technical challenges and exploring new technologies.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohanf1245" alt="yohanf1245" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
